@@ -1,0 +1,3 @@
+DELETE 
+FROM telefono 
+WHERE CFcommittente='BRMMRG83C15F205V' AND telefono='3285467049';

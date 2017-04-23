@@ -1,0 +1,3 @@
+NULL,PP26071995,blabla,0,100,100.0,A,html dashboard,scrivere la pagina di dashboard,1
+NULL,PL2001985,blablaok,0,100,99.0,B,html login page,scrivere la pagina di login lato frontend,1
+NULL,PP04012017,blablano,0,33,50.0,C,backend login page,scrivere la login page lato backend,0
